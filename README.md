@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python depth_map.py --input 'path/to/input/image' --output 'path/to/output/image'
 ```
 
-## Example
+Example
 
 ```bash
 python depth_map.py --input demo/landscape.png --output demo/landscape_depth.png
