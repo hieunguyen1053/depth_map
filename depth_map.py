@@ -9,7 +9,7 @@ net_w = 512
 net_h = 512
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__))
-MODEL_PATH = os.path.join(DIR_PATH, 'model.quant.onnx')
+MODEL_PATH = os.path.join(DIR_PATH, 'model/model.quant.onnx')
 
 class DepthMap:
     def __init__(self, model_path=MODEL_PATH):
