@@ -25,4 +25,4 @@ python depth_map.py --input demo/landscape.png --output demo/landscape_depth.png
 
 ![3D photo](demo/demo.gif)
 
-[How do I create a 3D photo on Facebook?](www.facebook.com/help/414295416095269/?helpref=uf_share)
+[How do I create a 3D photo on Facebook?](https://www.facebook.com/help/414295416095269/?helpref=uf_share)
